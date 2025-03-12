@@ -39,5 +39,28 @@
     "location": "Adenta Snnit",
     "imageUrl": "Adentasnnit.jpeg",
     "createdAt": "2025-03-12T18:24:47.134Z"
+  },
+  {
+    "id": 8,
+    "title": "New 3 bedroom House",
+    "price": 300000,
+    "location": "Suburb",
+    "imageUrl": "House.jpg",
+    "createdAt": "2025-03-12T20:52:20.557Z"
+  },
+  {
+    "id": 1,
+    "title": "4 bedroom Duplex",
+    "price": 200000,
+    "location": "Atico",
+    "imageUrl": "Duplex.jpg"
+  },
+  {
+    "id": 9,
+    "title": "New 3 bedroom House",
+    "price": 300000,
+    "location": "Suburb",
+    "imageUrl": "House.jpg",
+    "createdAt": "2025-03-12T20:56:18.773Z"
   }
 ]
