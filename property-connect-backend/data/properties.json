@@ -1,0 +1,43 @@
+[
+  {
+    "title": "Luxury Apartment",
+    "price": 500000,
+    "location": "East-Legon",
+    "id": 1
+  },
+  {
+    "title": "5 Bedroom Duplex",
+    "price": 300000,
+    "location": "Oyarifa",
+    "id": 2
+  },
+  {
+    "title": "Luxury Apartment",
+    "price": 100000,
+    "location": "Adenta",
+    "id": 3
+  },
+  {
+    "title": "6 bedroom Duplex",
+    "price": 450000,
+    "location": "Nsawam",
+    "imageUrl": "apartment.jpg",
+    "id": 4
+  },
+  {
+    "id": 5,
+    "title": "4 bedroom Duplex",
+    "price": 200000,
+    "location": "Atico",
+    "imageUrl": "Duplex.jpg",
+    "createdAt": "2025-03-12T12:55:13.265Z"
+  },
+  {
+    "id": 6,
+    "title": "Luxury Apartment",
+    "price": 450000,
+    "location": "Adenta Snnit",
+    "imageUrl": "Adentasnnit.jpeg",
+    "createdAt": "2025-03-12T18:24:47.134Z"
+  }
+]
